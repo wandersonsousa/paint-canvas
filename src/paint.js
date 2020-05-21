@@ -95,8 +95,10 @@
         if($eraserCheck.checked){
             lineConfig.color = '#fff'
             eraserMode = true
+            paintArea.style.cursor = 'url("./cursor/Eraser.cur"),auto'
         }else{
             eraserMode = false
+            paintArea.style.cursor = 'url("./cursor/Pencil_Normal_select.cur"),auto'
         }
     }
     function clearPaintArea(evt){
