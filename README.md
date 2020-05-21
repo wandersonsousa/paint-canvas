@@ -1,6 +1,6 @@
 # Paint Online
 
-Uma área de pintura simples escrita em javascript, utilizando canvas.
+A simple painting area written in javascript, using canvas.
 
 
 The application has some settings such as:
