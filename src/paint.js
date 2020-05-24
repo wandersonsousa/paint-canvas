@@ -87,8 +87,6 @@
     paintArea.onpointerup = drawLeave
     paintArea.onpointerout = drawLeave
     paintArea.onpointercancel = drawLeave
-    
-
 
     
     function startRubberMode(evt){

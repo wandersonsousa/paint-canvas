@@ -2,6 +2,7 @@
 
 A simple painting area written in javascript, using canvas.
 
+![alt](paintCanvasPrint.png)
 
 The application has some settings such as:
 - Brush thickness
