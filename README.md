@@ -12,7 +12,7 @@ The application has some settings such as:
 - Change brush color
 
 # TODO
-- Aplicar responsividade
+- Apply responsive
 
 ###Technologies used:
 * [Node] -  to create the server
