@@ -11,6 +11,9 @@ The application has some settings such as:
 - Erase everything
 - Change brush color
 
+# TODO
+- Aplicar responsividade
+
 ###Technologies used:
 * [Node] -  to create the server
 * [Canvas] - for drawing
